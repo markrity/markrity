@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![silicon](https://user-images.githubusercontent.com/11563691/109066394-af986f80-76f5-11eb-87d4-ef39345bd73d.gif)
+
 
 <!--
 **markrity/markrity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
