@@ -1,5 +1,4 @@
 
-![silicon](https://user-images.githubusercontent.com/11563691/109066394-af986f80-76f5-11eb-87d4-ef39345bd73d.gif)
 
 
 <!--
